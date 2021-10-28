@@ -1,0 +1,240 @@
+.menu{
+    width: 1864px;
+    height: 2160px;
+    background: url("image/home.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    overflow: hidden;
+}
+
+.inicio{
+    width: 1864px;
+    height: 2966px;
+    background: url("image/INICIO.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    overflow: hidden;
+}
+
+.preco{
+    width: 1864px;
+    height: 1210px;
+    background: url("image/PREÇO\ DOS\ JOGOS.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    overflow: hidden;
+}
+
+.tempo{
+    width: 1864px;
+    height: 1210px;
+    background: url("image/TEMPO\ DOS\ JOGOS.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    overflow: hidden;
+}
+.req{
+    width: 1864px;
+    height: 1210px;
+    background: url("image/REQUISITOS\ MÍNIMOS.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    overflow: hidden;
+}
+
+.logo{
+    background: url("image/Logo\ \(2\).png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top: 45px;
+    left: 69px;
+    width: 240px;
+    height: 196px;
+}
+
+.logoA{
+    background: url("image/logo_azul.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top: 45px;
+    left: 69px;
+    width: 240px;
+    height: 196px;
+}
+
+.precoBtn{
+    background: url("image/Preço.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top: 40px;
+    left: 300px;
+    width: 400px;
+    height: 90px;
+}
+.precoBtnA{
+    background: url("image/Preço_Azul.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top: 40px;
+    left: 300px;
+    width: 400px;
+    height: 90px;
+}
+
+.tempoBtn{
+    background: url("image/Tempo.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top: 40px;
+    left: 735px;
+    width: 400px;
+    height: 90px;
+}
+
+.reqBtn{
+    background: url("image/Requisitos.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top: 40px;
+    left: 1165px;
+    width: 400px;
+    height: 90px;
+}
+.reqBtnA{
+    background: url("image/Requisitos_Azul.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top: 40px;
+    left: 1165px;
+    width: 400px;
+    height: 90px;
+}
+
+.riot{
+    background: url("image/Riot\ Logo.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top: 486px;
+    left: 104px;
+    width: 541px;
+    height: 349px;
+}
+
+.ubisoft{
+    background: url("image/Ubisotf\ Logo.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top: 486px;
+    left: 661px;
+    width: 541px;
+    height: 349px;
+}
+
+.EA{
+    background: url("image/🤮\ Logo.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top: 486px;
+    left: 1207px;
+    width: 541px;
+    height: 349px;
+}
+
+.pesquisa{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 185px;
+    left: 887px;
+    width: 368px;
+    border: none;
+    height: 59px;
+    margin: 0px 0px;
+    background-color: #16163F;
+    color: white;
+}
+
+.art{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 664px;
+    left: 6px;
+    width: 459px;
+    border: none;
+    height: 59px;
+}
+
+.ENTRAR{
+    background: url("image/Entrar.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 20px;
+    left: 1615px;
+    width: 237px;
+    border: none;
+    height: 92px;
+}
+
+.letsgo{
+    background: url("image/Letsgo.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 559px;
+    left: 740px;
+    width: 415px;
+    border: none;
+    height: 92px;
+}
+
+.mySlides{
+    position: absolute;
+    top: 460px;
+    height: 433px;
+    left: -300px;
+    width: 1550px;
+    border-radius: 30px;
+}
+
+.w3-display-left{
+    position: absolute;
+    top: 674px;
+    left: px;
+} 
