@@ -27,8 +27,24 @@ app.get('/req', (req,res) => {
     res.render('req')
 })
 
-app.get('/t', (req,res) => {
-    res.render('t')
+app.get('/ubisoft', (req,res) => {
+    res.render('ubisoft')
+})
+
+app.get('/riot', (req,res) => {
+    res.render('riot')
+})
+
+app.get('/ea', (req,res) => {
+    res.render('ea')
+})
+
+app.get('/dog', (req,res) => {
+    res.render('dog')
+})
+
+app.get('/bethesda', (req,res) => {
+    res.render('bethesda')
 })
 
 // Abrindo o servidor
